@@ -1,0 +1,9 @@
+pyrogram==2.0.106
+tgcrypto
+aiohttp
+psutil
+yt-dlp
+python-dotenv
+libsql
+py-tgcalls==2.2.5
+py-yt-search
